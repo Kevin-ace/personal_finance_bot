@@ -74,10 +74,10 @@ finance-bot/
 │   ├── styles.css         # Main stylesheet with animations and styles
 │   ├── scripts.js         # JavaScript logic for handling user interactions
 ├── templates/
-│   └── base.html          # Base HTML template for Django or other templating engines
+│   └── base.html          # Base HTML template for templating engines
 ├── backend/
-│   ├── app.py             # Backend entry point (Flask/Django setup)
-│   ├── models.py          # Models for database (if using a backend framework)
+│   ├── app.py             # Backend entry point (Flask setup)
+│   ├── models.py          # Models for database
 │   └── requirements.txt   # Python dependencies for backend
 └── README.md              # Project documentation
 ```
