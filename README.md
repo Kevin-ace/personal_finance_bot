@@ -28,7 +28,7 @@ This is a simple finance bot web application designed to help users track their 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/finance-bot.git
+git clone https://github.com/Kevin-ace/personal_finance_bot.git
 cd finance-bot
 ```
 
